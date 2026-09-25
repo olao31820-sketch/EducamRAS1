@@ -1,21 +1,7 @@
 # Educam RAS Website
 
-Static website for RAS competitive-exam preparation.
+Built from the supplied Educam RAS V3.0 Android source. Includes its 30 practice MCQs, five-minute quiz, scoring, explanations, search, bookmarks, wrong-question review, roadmap and localStorage persistence.
 
-## Pages
-- Home
-- Notes
-- Quiz
-- Roadmap
-- Search
-- About Us
-- Contact Us
-- Privacy Policy
-- Disclaimer
-- Terms & Conditions
+IMPORTANT: the supplied ZIP is a native Android Kotlin project. It does not contain the later Bolt/Vite project with 22 Notes chapters, so this package does not invent those chapters. Add the exact current Notes data from the Bolt project before treating this as the final website.
 
-## Before AdSense application
-Replace `your-email@example.com` in Contact, Privacy, Disclaimer and Terms pages with a real contact email.
-
-Build configuration updated for EducamRAS.
-Cloudflare deployment trigger updated.
+For monetization, first deploy the site, add your own domain, then submit it to Google AdSense. Google requires original useful content, clear navigation and a live site; approval is not guaranteed.
