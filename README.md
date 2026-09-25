@@ -18,3 +18,4 @@ Static website for RAS competitive-exam preparation.
 Replace `your-email@example.com` in Contact, Privacy, Disclaimer and Terms pages with a real contact email.
 
 Build configuration updated for EducamRAS.
+Cloudflare deployment trigger updated.
